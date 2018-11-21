@@ -1,0 +1,24 @@
+﻿Build started 2018/11/16 00:18:52.
+     1>Project "C:\Users\YaChianLi\Desktop\hw2_release\CG_HW2\CG_HW2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _CRT_NONSTDC_NO_DEPRECATE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\yachianli\desktop\hw2_release\cg_hw2\main.cpp(32): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\yachianli\desktop\hw2_release\cg_hw2\main.cpp(201): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\YaChianLi\Desktop\hw2_release\Debug\CG_HW2.exe" /INCREMENTAL /NOLOGO ../GL/glut32.lib ../GL/glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\YaChianLi\Desktop\hw2_release\Debug\CG_HW2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\YaChianLi\Desktop\hw2_release\Debug\CG_HW2.lib" /MACHINE:X86 Debug\glm.obj
+         Debug\glmimg.obj
+         Debug\glmimg_devil.obj
+         Debug\glmimg_jpg.obj
+         Debug\glmimg_png.obj
+         Debug\glmimg_sdl.obj
+         Debug\glmimg_sim.obj
+         Debug\glm_util.obj
+         Debug\glm_helper.obj
+         Debug\main.obj
+         CG_HW2.vcxproj -> C:\Users\YaChianLi\Desktop\hw2_release\Debug\CG_HW2.exe
+     1>Done Building Project "C:\Users\YaChianLi\Desktop\hw2_release\CG_HW2\CG_HW2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.06
