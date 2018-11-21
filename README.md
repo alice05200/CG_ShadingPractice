@@ -5,3 +5,4 @@ References
 (this article merges Ls with Ld and use Li to represent them, but the basic idea is the same)  
 [What is Ramp Shading or Lighting?](https://gamedev.stackexchange.com/questions/51063/what-is-ramp-shading-or-lighting)  
 [溶解(Dissolve)效果](https://blog.csdn.net/huangzhipeng/article/details/7956656)  
+Practice three kinds of shading  
